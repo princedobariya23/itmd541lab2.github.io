@@ -1,4 +1,3 @@
-/* Apply CSS styles to text elements */
 
 /* Header Styles */
 header.w700 {
@@ -115,13 +114,12 @@ header.w700 {
   }
   
 /* Grid Part 2 */
-/* Grid Part 2 */
-/* Grid Part 2 */
+
 #grid-section2 .grid {
 	display: grid;
 	grid-template-columns: repeat(3, 1fr); /* 3 equal width columns */
 	grid-template-rows: repeat(3, 1fr); /* 3 equal height rows */
-	gap: 10px; /* 10px gap between rows and columns */
+	gap: 10px; 
   }
   
   #grid-section2 .gridboxblue {
@@ -140,9 +138,6 @@ header.w700 {
 	padding: 20px;
 	border-radius: 10px;
   }
-  
-  /* End of CSS Styles */
-	
   
   
   
